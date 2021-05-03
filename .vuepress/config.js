@@ -295,5 +295,10 @@ module.exports = {
                     background: 'var(--bodyBgColor)'
                 }
             }],
-    ]
+    ],
+    locales: {
+        '/': {
+            lang: 'ko-KR'
+        }
+    }
 }
