@@ -300,5 +300,6 @@ module.exports = {
         '/': {
             lang: 'ko-KR'
         }
-    }
+    },
+    evergreen: true
 }
