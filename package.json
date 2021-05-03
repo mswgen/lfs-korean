@@ -1,0 +1,27 @@
+{
+   "name": "lfs-korean",
+   "version": "10.1",
+   "description": "Korean translation of Linux From Scratch",
+   "main": "",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mswgen/lfs-korean.git"
+   },
+   "scripts": {
+      "dev": "vuepress dev",
+      "build": "vuepress build"
+   },
+   "license": "CC-BY-NC-SA 2.0",
+   "devDependencies": {
+      "@vuepress/plugin-back-to-top": "^1.8.2",
+      "markdown-it-multimd-table": "^4.1.0",
+      "vuepress": "^1.8.2",
+      "vuepress-plugin-medium-zoom": "^1.1.9",
+      "vuepress-plugin-zooming": "^1.1.8",
+      "vuepress-theme-book": "0.0.5",
+      "vuepress-theme-dark-new": "^0.1.2",
+      "vuepress-theme-succinct": "^1.7.2",
+      "vuepress-theme-yuu": "^3.0.1"
+   },
+   "homepage": "https://mswgen.github.io/lfs-korean"
+}
